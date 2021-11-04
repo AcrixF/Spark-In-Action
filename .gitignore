@@ -1,2 +1,5 @@
 # Project exclude paths
 /chapter01/target/
+/chapter02/target
+
+.idea/*
