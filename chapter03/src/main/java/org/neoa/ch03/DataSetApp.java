@@ -35,7 +35,7 @@ public class DataSetApp {
         Dataset<Row> df = ds.toDF();
 
         df.show();
-        
+
         df.printSchema();
     }
 }
